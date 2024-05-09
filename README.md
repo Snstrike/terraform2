@@ -1,4 +1,9 @@
 # terraform2
+Creación de módulo de subnet
+## Con el objetivo de:
+- Generar dos subredes
+- Generar dos VPCs
+- Generar dos instancias, una en cada VPC
 
 ## Instalación
 
